@@ -1,0 +1,7 @@
+ strategic_fraction  NaiveReport_mean_true_quality  Detector_mean_true_quality  VeriProbe_mean_true_quality  Oracle_mean_true_quality
+                0.0                       0.836716                    0.836716                     0.805290                   0.84139
+                0.2                       0.464367                    0.486477                     0.805698                   0.84139
+                0.4                       0.439952                    0.452751                     0.804868                   0.84139
+                0.6                       0.436705                    0.433467                     0.806405                   0.84139
+                0.8                       0.438421                    0.432131                     0.806039                   0.84139
+                1.0                       0.430336                    0.421343                     0.807420                   0.84139
